@@ -2,7 +2,7 @@
 
 ## **Instructions to Run the code**
 
-1. **Install dependencies on NOTEBOOK **
+1. **Install dependencies**
    ```bash
    !pip install torch==2.5.1 torchvision==0.20.1 cpuonly -c pytorch
    !pip install transformers[torch]
@@ -17,7 +17,7 @@
    pip install -r requirements.txt
 
 3. **Data**
-   Make sure you have uploaded the xlsx file. For now the code with excel format. On left most pane there is a folder. Click it to expand, under 'Files' there is upload icon, use it to navigate to upload the file
+   Make sure dataset file (.xlsx) is available. It is a very small dataset.
 
 # Understanding the data - Visual inspection
 
